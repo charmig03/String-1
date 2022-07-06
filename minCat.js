@@ -3,4 +3,3 @@ function minCat(a, b){
 
   return a.substring(a.length - min) + b.substring(b.length - min);
 }
-}
