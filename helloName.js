@@ -1,3 +1,4 @@
-function helloName(name){
+function helloName(name)
+{
   return `Hello ${name}!`;
 }
